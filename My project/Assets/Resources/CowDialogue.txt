@@ -1,0 +1,11 @@
+Cow
+==_Quest
+Moo! (Give me 5 Mushrooms.)
+Mooo! (They are by the trees to the right.)
+==_NotDone
+Moooo! (That's not Enough!!)
+Moo! (Chop chop! Get those shrooms.)
+==_Done
+Mooooo! (Wonderful! Thanks for the grub.)
+==_After
+*He seems content to eat his 5 mushrooms*
